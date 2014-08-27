@@ -37,11 +37,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/team/", text: "Time"}
- - {permalink: "/logistics/", text: "Logistica"}
+ # - {permalink: "/blog/", text: "Blog"}
+ # - {permalink: "/schedule/", text: "Agenda"}
+ # - {permalink: "/speakers/", text: "Palestrantes"}
+ # - {permalink: "/team/", text: "Time"}
+ # - {permalink: "/logistics/", text: "Logistica"}
  - {link: "https://developers.google.com", text: "Desenvolvedores"}
 # bottomNavigationLinks:
 #  - {link: "http://bit.ly/dfua-c4p", text: "Seja um palestrante"}
@@ -64,7 +64,7 @@ aboutBlock:
 
 # Statistic Block
 statisticBlock:
- - {count: "450", specialCharacter: "+", info: "participante", detail: "de todo lugar"}
+ - {count: "450", specialCharacter: "+", info: "participantes", detail: "de todo lugar"}
  - {count: "20", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
  #- {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "2", specialCharacter: "", info: "Trilhas Paralelas", detail: "e muitas novidades"}
@@ -129,24 +129,24 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {link: "http://localhost:4000/zeppelin/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/+GdgspOrg", icon: "google-plus"}
+ 
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://developers.google.com/groups/chapter/102774871279745079139/", text: "GDG-SP"}
+   - {link: "https://developers.google.com/groups/chapter/108193462895935017410/", text: "GDG-ABC"}
+   - {link: "http://www.meetup.com/GDG-SP/", text: "Meetups GDG-SP"}
+   - {link: "http://www.meetup.com/GDG-ABC/", text: "Meetups GDG-ABC"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:sp@devfest.com.br", text: "sp@devfest.com.br"}
  -
-  title: "FAQ"
-  links:
-   - {permalink: "http://localhost:4000/zeppelin/cod/", text: "Code of Conduct"}
+  # title: "FAQ"
+  # links:
+  #  - {permalink: "http://localhost:4000/zeppelin/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
